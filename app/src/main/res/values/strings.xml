@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android DDOS</string>
+    <string name="msg_fill_all_filds">Please, Fill all the filds</string>
+    <string name="err_its_not_ip">It is not IP address</string>
+    <string name="rb_http_attack">HTTP Attack</string>
+    <string name="rb_tcp_attack">TCP Attack</string>
+    <string name="rb_udp_attack">UDP Attack</string>
+    <string name="hint_ip_address">IP Address</string>
+    <string name="hint_port">Port</string>
+    <string name="btn_start_a_new_attack">Start a new attack</string>
+    <string name="btn_stop_all_attacks">Stop all attacks</string>
+</resources>
